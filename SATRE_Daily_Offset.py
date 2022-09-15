@@ -1,4 +1,3 @@
-#pip install xlsxwriter,easygui
 '''
 Copyright (C) 2019 Vishal Yadav
 '''
